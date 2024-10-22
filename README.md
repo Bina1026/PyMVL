@@ -1,6 +1,6 @@
-# 🌟 Project Name
+# 🌟 Radiomics Contriubtion Map (RCM) 
 
-A brief description of your project.
+A novel method for visualizing the radiomics analysis.
 
 ---
 
